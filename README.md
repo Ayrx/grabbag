@@ -7,8 +7,7 @@ A collection of useful tools for a x86_64 Linux install.
 2. [tokei][tokei] - v11.2.1
 3. [frida-manager][frida-manager] - v0.2.0
 4. [cloudflared][cloudflared] - v2020.6.1
-5. [rust-analyzer][rust-analyzer] - v2020-06-15
-6. [neovim][nvim] - v0.5.0
+5. [neovim][nvim] - v0.5.0
 
 `android/`:
 1. [proxycat][proxycat] - v0.2.0
@@ -17,6 +16,5 @@ A collection of useful tools for a x86_64 Linux install.
 [tokei]: https://github.com/XAMPPRocky/tokei
 [frida-manager]: https://github.com/Ayrx/frida-manager
 [cloudflared]: https://developers.cloudflare.com/argo-tunnel/downloads/
-[rust-analyzer]: https://github.com/rust-analyzer/rust-analyzer
 [nvim]: https://github.com/neovim/neovim
 [proxycat]: https://github.com/Ayrx/proxycat
